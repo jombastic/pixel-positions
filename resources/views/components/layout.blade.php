@@ -14,7 +14,7 @@
         <title>Pixel Positions</title>
     </head>
 
-    <body class="bg-black font-hanken-grotesk text-white">
+    <body class="bg-black font-hanken-grotesk text-white pb-20">
         <div class="px-10">
             <nav
                 class="flex items-center justify-between border-b border-white/10 py-4"
